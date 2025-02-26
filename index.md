@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /markdown-examples
+      link: /introduce
     - theme: alt
       text: 联系作者
       link: /api-examples
