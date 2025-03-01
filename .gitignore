@@ -4,11 +4,13 @@ node_modules/
 # Ignore build output directories
 dist/
 .vitepress/dist/
+docs/.vitepress/dist/
 
 # Ignore temporary and cache directories
 .temp/
 .cache/
 .vitepress/cache/
+docs/.vitepress/cache/
 
 # Ignore IDE and editor specific directories
 .idea/
@@ -25,3 +27,4 @@ dist/
 # Ignore macOS and Windows system files
 .DS_Store
 Thumbs.db
+.vercel
