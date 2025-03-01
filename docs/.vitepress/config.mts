@@ -17,16 +17,41 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '简介',
+        collapsed: false,
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/introduce.md' }
+          { text: 'LabelPlusFX是什么?', link: '/introduce/what-is-labelplusfx' },
+          { text: '快速开始', link: '/introduce/getting-started' }
+        ]
+      },
+      {
+        text: '基本功能',
+        collapsed: false,
+        items: [
+          { text: 'LabelPlusFX是什么?', link: '/introduce/what-is-labelplusfx' },
+          { text: '快速开始', link: '/introduce/getting-started' }
+        ]
+      },
+      {
+        text: '进阶操作',
+        collapsed: false,
+        items: [
+          // { text: 'LabelPlusFX是什么?', link: '/introduce/what-is-labelplusfx' },
+          // { text: '快速开始', link: '/introduce/getting-started' }
+        ]
+      },
+      {
+        text: '更多支持',
+        collapsed: false,
+        items: [
+          // { text: 'LabelPlusFX是什么?', link: '/introduce/what-is-labelplusfx' },
+          // { text: '快速开始', link: '/introduce/getting-started' }
         ]
       }
     ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Lost-Swords/LabelPlusFX_New' }
     ]
-  }
+  },
+  lastUpdated: true, // 启用更新时间
 })

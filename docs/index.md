@@ -10,11 +10,11 @@ hero:
     alt: VitePress
   actions:
     - theme: brand
-      text: 什么是LabelPlusFX
-      link: /introduce
+      text: 什么是LabelPlusFX?
+      link: /introduce/what-is-labelplusfx
     - theme: alt
       text: 快速开始
-      link: /guide/getting-started
+      link: /introduce/getting-started
     - theme: alt
       text: 联系作者
       link: /api-examples
