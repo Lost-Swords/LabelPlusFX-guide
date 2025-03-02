@@ -12,7 +12,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.png',
     nav: [
-      { text: '指南', link: '/introduce' },
+      { text: '指南', link: '/introduce/what-is-labelplusfx' },
       { text: '联系作者', link: '/markdown-examples' }
     ],
 
@@ -54,15 +54,15 @@ export default defineConfig({
         ]
       },
       {
-        text: '基本功能',
+        text: '基本操作',
         collapsed: false,
         items: [
-          { text: 'LabelPlusFX是什么?', link: '/introduce/what-is-labelplusfx' },
-          { text: '快速开始', link: '/introduce/getting-started' }
+          // { text: 'LabelPlusFX是什么?', link: '/introduce/what-is-labelplusfx' },
+          // { text: '快速开始', link: '/introduce/getting-started' }
         ]
       },
       {
-        text: '进阶操作',
+        text: '进阶使用',
         collapsed: false,
         items: [
           // { text: 'LabelPlusFX是什么?', link: '/introduce/what-is-labelplusfx' },
