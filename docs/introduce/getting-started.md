@@ -13,13 +13,14 @@
 
 打开软件，点击菜单栏的**文件-**>**新建翻译**，打开文件窗口
 
-![打开新建翻译](https://i.imgur.com/EXVmObm.png)
+![打开新建翻译](https://img.noobzone.ru/getimg.php?url=https://i.imgur.com/EXVmObm.png)
+
 打开漫画所在文件夹，点击**保存**
-![保存汉化文件](https://i.imgur.com/67HUoK9.png)
+![保存汉化文件](https://img.noobzone.ru/getimg.php?url=https://i.imgur.com/67HUoK9.png)
 
 添加所有需要汉化的图片，点击**应用**
 
-![添加汉化图片](https://i.imgur.com/1Ayix1i.png)
+![添加汉化图片](https://img.noobzone.ru/getimg.php?url=https://i.imgur.com/1Ayix1i.png)
 
 至此，可以使用labelplusfx对漫画开始标号与翻译。
 
@@ -27,35 +28,35 @@
 
 点击右上**工作模式切换按钮**，切换至标号模式
 
-![切换标号模式](https://i.imgur.com/5zyGJql.jpeg)
+![切换标号模式](https://img.noobzone.ru/getimg.php?url=https://i.imgur.com/5zyGJql.jpeg)
 
 在标号模式下，你可以**点击**图上的文字区域对其进行**标号**
 
-![点击区域标号](https://i.imgur.com/Insk0zt.png)
+![点击区域标号](https://img.noobzone.ru/getimg.php?url=https://i.imgur.com/Insk0zt.png)
 可通过点击**左上角分组名**，切换**标号分组**
 
-![](https://i.imgur.com/BypKSGI.jpeg "切换分组")
+![](https://img.noobzone.ru/getimg.php?url=https://i.imgur.com/BypKSGI.jpeg "切换分组")
 
 在右下角的**文本输入区**，输入对应标号标签的翻译内容
 
-![](https://i.imgur.com/e2EybJx.jpeg "输入翻译内容")
+![](https://img.noobzone.ru/getimg.php?url=https://i.imgur.com/e2EybJx.jpeg "输入翻译内容")
 
 可通过图片右下角的**下拉框和切换按钮**，切换至其他图片
 
-![](https://i.imgur.com/DYtVTXT.jpeg)
+![](https://img.noobzone.ru/getimg.php?url=https://i.imgur.com/DYtVTXT.jpeg)
 
 ## 输出翻译文件
 
 当所有图片均已完成标号和翻译后，请点击菜单栏的**导出**->**导出为LP文件**或**导出**->**导出为MEO文件**，导出该漫画的翻译文件。
 
-![](https://i.imgur.com/ftQf6Xh.png)
+![](https://img.noobzone.ru/getimg.php?url=https://i.imgur.com/ftQf6Xh.png)
 
 > [!NOTE]
 > MEO文件和LP文件都可以使用。LP文件兼容原本labelplus的PS导入脚本，MEO文件支持更多LabelplusFX的扩展功能。
 
 打开需要导出翻译的文件夹，点击**保存**。
 
-![](https://i.imgur.com/u2SMIF3.png "保存文件")
+![](https://img.noobzone.ru/getimg.php?url=https://i.imgur.com/u2SMIF3.png "保存文件")
 
 > [!NOTE]
 > 可在保存类型再次更改保存的翻译类型
@@ -69,11 +70,11 @@
    > 一种快速调用脚本的方法： 1. 找到`Photoshop`安装目录 2. 将嵌字脚本文件连同`ps_script_res`文件夹复制到Photoshop安装目录\Presets\Scripts`目录中 3. 重启Photoshop 4. 文件 -> 脚本 中即可看到嵌字脚本![](https://labelplus.gitbook.io/~gitbook/image?url=https%3A%2F%2Fuser-images.githubusercontent.com%2F26241263%2F48927551-a0705900-ef11-11e8-86c9-5b7cbd7a9b9c.png&width=300&dpr=4&quality=100&sign=b7b09d26&sv=2)
 
 3. 在弹出的窗口中, 点击...选择翻译文件
-   ![](https://i.imgur.com/nFxma7Q.png)
+   ![](https://img.noobzone.ru/getimg.php?url=https://i.imgur.com/nFxma7Q.png)
 
 4. 单击**导入**按钮, 等待PS脚本批量处理图片完成。打开图片所在文件夹，可以看到output目录下生成了新的psd文件
 
-![](https://i.imgur.com/dCQS6Yv.png)
+![](https://img.noobzone.ru/getimg.php?url=https://i.imgur.com/dCQS6Yv.png)
 
 
 
@@ -85,8 +86,8 @@
 
 在PS上打开对应的psd文件，可以看到对应文字区域已经根据标签分组并添加了翻译文字。
 
-![](https://i.imgur.com/BWXRSuL.png)
+![](https://img.noobzone.ru/getimg.php?url=https://i.imgur.com/BWXRSuL.png)
 
-![](https://imgur.com/83Fglk0.png)
+![](https://img.noobzone.ru/getimg.php?url=https://imgur.com/83Fglk0.png)
 
 至此，可以在PS上完成后续嵌字工作。
