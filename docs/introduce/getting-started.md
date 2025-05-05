@@ -4,8 +4,8 @@
 
 首先，你需要**下载**并**解压**（或**安装**）本软件:
 
-- [LabelPlusFX-2.3.5-win64.zip]([LabelPlusFX-2.3.5-Win64.zip](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.5/LabelPlusFX-2.3.5-Win64.zip))
-- [LabelPlusFX-setup-2.3.5-win64.exe](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.5/LabelPlusFX-2.3.5-Win64.zip)
+- [LabelPlusFX-2.3.5-win64.zip](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.5/LabelPlusFX-2.3.5-Win64.zip)
+- [LabelPlusFX-setup-2.3.5-win64.exe](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.5/LabelPlusFX-setup-2.3.5-win64.exe)
 
 旧版本软件请参考 [release](https://github.com/Lost-Swords/LabelPlusFX_New/releases/tag/v2.3.5)
 
@@ -30,7 +30,7 @@
 
 ![切换标号模式](https://image.yeding.top/img/5zyGJql.jpeg)
 
-在标号模式下，你可以**点击**图上的文字区域对其进行**标号**
+在标号模式下，你可以**左键点击**图上的文字区域对其进行**标号**，对不需要的标号点击**右键**进行**删除**
 
 ![点击区域标号](https://image.yeding.top/img/Insk0zt.png)
 
@@ -75,8 +75,8 @@
 
 4. 单击**导入**按钮, 等待PS脚本批量处理图片完成。打开图片所在文件夹，可以看到output目录下生成了新的psd文件
    ![](https://image.yeding.top/img/dCQS6Yv.png)
-
-
+   
+   
 
 > LP原版PS脚本:[LabelPlus_PS-Script_1.7.3.zip](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.5/LabelPlus_PS-Script_1.7.3.zip)
 > 

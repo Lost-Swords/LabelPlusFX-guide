@@ -16,7 +16,6 @@ LabelplusFX是一个基于原版[LabelPlus](https://github.com/LabelPlus/LabelPl
 - 可拖动的Label
 - 等等
 
-
 ## 内置工具
 
 - 中日小词典
@@ -27,3 +26,5 @@ LabelplusFX是一个基于原版[LabelPlus](https://github.com/LabelPlus/LabelPl
 ## 更多
 
 请参考本站文档，以及用户手册 [User Manual](https://www.kdocs.cn/l/seRSJCKVOn0Y) 和  [Github Wiki](https://github.com/Meodinger/LabelPlusFX/wiki/Usage).
+
+
