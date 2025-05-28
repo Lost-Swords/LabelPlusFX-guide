@@ -7,7 +7,7 @@
 - [LabelPlusFX-2.3.5-win64.zip](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.5/LabelPlusFX-2.3.5-Win64.zip)
 - [LabelPlusFX-setup-2.3.5-win64.exe](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.5/LabelPlusFX-setup-2.3.5-win64.exe)
 
-旧版本软件请参考 [release](https://github.com/Lost-Swords/LabelPlusFX_New/releases/tag/v2.3.5)
+旧版本软件请参考 [release](https://github.com/Lost-Swords/LabelPlusFX_New/releases)
 
 ## 创建翻译文件
 
@@ -53,6 +53,7 @@
 ![](https://image.yeding.top/img/ftQf6Xh.png)
 
 > [!NOTE]
+
 > MEO文件和LP文件都可以使用。LP文件兼容原本labelplus的PS导入脚本，MEO文件支持更多LabelplusFX的扩展功能。
 
 打开需要导出翻译的文件夹，点击**保存**。
@@ -91,3 +92,4 @@
 ![](https://image.yeding.top/img/83Fglk0.png)
 
 至此，你可以在PS上完成后续嵌字工作。
+
