@@ -53,7 +53,6 @@
 ![](https://image.yeding.top/img/ftQf6Xh.png)
 
 > [!NOTE]
-
 > MEO文件和LP文件都可以使用。LP文件兼容原本labelplus的PS导入脚本，MEO文件支持更多LabelplusFX的扩展功能。
 
 打开需要导出翻译的文件夹，点击**保存**。
