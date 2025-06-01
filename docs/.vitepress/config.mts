@@ -74,7 +74,7 @@ export default defineConfig({
         text: '更多支持',
         collapsed: false,
         items: [
-          // { text: 'LabelPlusFX是什么?', link: '/introduce/what-is-labelplusfx' },
+          { text: '更新日志', link: '/support/change-log' },
           // { text: '快速开始', link: '/introduce/getting-started' }
         ]
       }

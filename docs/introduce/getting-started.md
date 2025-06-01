@@ -4,8 +4,8 @@
 
 首先，你需要**下载**并**解压**（或**安装**）本软件:
 
-- [LabelPlusFX-2.3.5-win64.zip](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.5/LabelPlusFX-2.3.5-Win64.zip)
-- [LabelPlusFX-setup-2.3.5-win64.exe](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.5/LabelPlusFX-setup-2.3.5-win64.exe)
+- [LabelPlusFX-2.3.6-win64.zip](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.6/LabelPlusFX-2.3.6-Win64.zip)
+- [LabelPlusFX-setup-2.3.6-win64.exe](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.6/LabelPlusFX-setup-2.3.6-win64.exe)
 
 旧版本软件请参考 [release](https://github.com/Lost-Swords/LabelPlusFX_New/releases)
 
@@ -78,9 +78,9 @@
    
    
 
-> LP原版PS脚本:[LabelPlus_PS-Script_1.7.3.zip](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.5/LabelPlus_PS-Script_1.7.3.zip)
+> LP原版PS脚本:[LabelPlus_PS-Script_1.7.3.zip](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.6/LabelPlus_PS-Script_1.7.3.zip)
 > 
-> FX版PS脚本:[Meo_Ps_Script.zip](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.5/Meo_Ps_Script.zip)
+> FX版PS脚本:[Meo_Ps_Script.zip](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.6/Meo_Ps_Script.zip)
 
 ## 在PS上完成嵌字
 
