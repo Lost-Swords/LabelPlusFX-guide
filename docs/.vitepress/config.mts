@@ -75,7 +75,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '更新日志', link: '/support/change-log' },
-          // { text: '快速开始', link: '/introduce/getting-started' }
+          { text: '联系作者', link: '/support/contact-author' }
         ]
       }
     ],
