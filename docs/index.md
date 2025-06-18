@@ -16,8 +16,8 @@ hero:
       text: 快速开始
       link: /introduce/getting-started
     - theme: alt
-      text: 联系作者
-      link: /api-examples
+      text: 用户手册
+      link: https://www.kdocs.cn/l/seRSJCKVOn0Y
 
 features:
   - title: 🚀汉化体验升级

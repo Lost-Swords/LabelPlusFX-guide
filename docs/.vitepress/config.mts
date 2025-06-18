@@ -13,7 +13,7 @@ export default defineConfig({
     logo: '/logo.png',
     nav: [
       { text: '指南', link: '/introduce/what-is-labelplusfx' },
-      { text: '联系作者', link: '/markdown-examples' }
+      { text: '联系作者', link: '/support/contact-author' }
     ],
 
     search: {
@@ -57,7 +57,7 @@ export default defineConfig({
         text: '基本操作',
         collapsed: false,
         items: [
-           { text: '界面', link: '/base/interface' },
+           { text: '界面概述', link: '/base/interface' },
           { text: '快捷键', link: '/base/quick-work' },
           // { text: '快速开始', link: '/introduce/getting-started' }
         ]

@@ -4,10 +4,11 @@
 
 首先，你需要**下载**并**解压**（或**安装**）本软件:
 
-- [LabelPlusFX-2.3.6-win64.zip](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.6/LabelPlusFX-2.3.6-Win64.zip)
-- [LabelPlusFX-setup-2.3.6-win64.exe](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.6/LabelPlusFX-setup-2.3.6-win64.exe)
+- [LabelPlusFX-2.3.7-Win64.zip](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.7/LabelPlusFX-2.3.7-Win64.zip)
+- [LabelPlusFX-setup-2.3.7-Win64.exe](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.7/LabelPlusFX-setup-2.3.7-win64.exe)
+- [LabelPlusFX-setup-2.3.7-Mac.zip](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.7/LabelPlusFX-2.3.7-Mac.zip)
 
-旧版本软件请参考 [release](https://github.com/Lost-Swords/LabelPlusFX_New/releases)
+往期版本软件请阅览 [release](https://github.com/Lost-Swords/LabelPlusFX_New/releases)
 
 ## 创建翻译文件
 

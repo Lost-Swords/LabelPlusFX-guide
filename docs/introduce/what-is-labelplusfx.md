@@ -23,7 +23,7 @@ LabelplusFX是一个基于原版[LabelPlus](https://github.com/LabelPlus/LabelPl
 - 文件即时备份与恢复
 - 等等
 
-## 更多
+## 更多说明
 
 请参考本站文档，以及用户手册 [User Manual](https://www.kdocs.cn/l/seRSJCKVOn0Y) 和  [Github Wiki](https://github.com/Meodinger/LabelPlusFX/wiki/Usage).
 
