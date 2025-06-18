@@ -23,8 +23,6 @@
 
 ![添加汉化图片](https://image.yeding.top/img/1Ayix1i.png)
 
-至此，可以使用labelplusfx对漫画开始标号与翻译。
-
 ## 标号与翻译
 
 点击右上**工作模式切换按钮**，切换至标号模式
