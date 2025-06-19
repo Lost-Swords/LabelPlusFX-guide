@@ -5,7 +5,7 @@ LabelplusFX是一个基于原版[LabelPlus](https://github.com/LabelPlus/LabelPl
 ## 改进
 
 - 图片可以在窗口中任意拖动
-- 标签与提示文本显示优化
+- Label与提示文本显示优化
 - 翻译和标号模式提示更清楚
 - 等等
 

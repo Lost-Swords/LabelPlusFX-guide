@@ -37,7 +37,7 @@
 
 ![](https://image.yeding.top/img/BypKSGI.jpeg "切换分组")
 
-在右下角的**文本输入区**，输入对应标号标签的翻译内容
+在右下角的**文本输入区**，输入对应标号Label的翻译内容
 
 ![](https://image.yeding.top/img/e2EybJx.jpeg "输入翻译内容")
 
@@ -83,7 +83,7 @@
 
 ## 在PS上完成嵌字
 
-在PS上打开对应的psd文件，可以看到对应文字区域已经根据标签分组并添加了翻译文字。
+在PS上打开对应的psd文件，可以看到对应文字区域已经根据Label分组并添加了翻译文字。
 
 ![](https://image.yeding.top/img/BWXRSuL.png)
 
