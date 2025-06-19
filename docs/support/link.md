@@ -26,7 +26,7 @@
 <div style="display: flex; align-items: center; width: 100%; margin-bottom: 16px;">
   <img src="https://labelplusfx-guide.yeding.top/logo.png" alt="LabelPlus" style="width:48px; height:48px; border-radius: 50%; margin-right: 16px;">
   <div>
-    <a href="https://yuriful.top/" target="_blank" style="font-size: 1.1em; font-weight: bold;">GitHub</a><br>
+    <a href="https://github.com/Lost-Swords/LabelPlusFX_New" target="_blank" style="font-size: 1.1em; font-weight: bold;">GitHub</a><br>
     <span style="color: #666;">改善软件急需编程大手子加入！</span>
   </div>
 </div>
