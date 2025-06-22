@@ -9,7 +9,6 @@ import DownloadLinks from '../../components/download-links.vue'
 </script>
 <DownloadLinks />
 
-往期版本请阅览 [release](https://github.com/Lost-Swords/LabelPlusFX_New/releases)
 
 ## 创建翻译文件
 
@@ -79,7 +78,7 @@ import DownloadLinks from '../../components/download-links.vue'
    
 
 > LP原版PS脚本:[LabelPlus_PS-Script_1.7.4.zip](https://github.com/LabelPlus/PS-Script/releases/download/1.7.4/LabelPlus_PS-Script_1.7.4.7z)
-> 
+>
 > FX版PS脚本:[Meo_Ps_Script.zip](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.6/Meo_Ps_Script.zip)
 
 ## 在PS上完成嵌字

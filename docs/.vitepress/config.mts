@@ -50,7 +50,8 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'LabelPlusFX是什么?', link: '/introduce/what-is-labelplusfx' },
-          { text: '快速开始', link: '/introduce/getting-started' }
+          { text: '快速开始', link: '/introduce/getting-started' },
+          { text: '下载链接', link: '/introduce/download-link' }
         ]
       },
       {
