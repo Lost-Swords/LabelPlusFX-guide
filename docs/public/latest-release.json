@@ -1,0 +1,18 @@
+{
+  "tag": "v2.3.7",
+  "version": "2.3.7",
+  "files": {
+    "winZip": {
+      "name": "LabelPlusFX-2.3.7-Win64.zip",
+      "url": "https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.7/LabelPlusFX-2.3.7-Win64.zip"
+    },
+    "winExe": {
+      "name": "LabelPlusFX-setup-2.3.7-Win64.exe",
+      "url": "https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.7/LabelPlusFX-setup-2.3.7-Win64.exe"
+    },
+    "macZip": {
+      "name": "LabelPlusFX-setup-2.3.7-Mac.zip",
+      "url": "https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.7/LabelPlusFX-setup-2.3.7-Mac.zip"
+    }
+  }
+}
