@@ -77,7 +77,7 @@
    
    
 
-> LP原版PS脚本:[LabelPlus_PS-Script_1.7.3.zip](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.6/LabelPlus_PS-Script_1.7.3.zip)
+> LP原版PS脚本:[LabelPlus_PS-Script_1.7.4.zip](https://github.com/LabelPlus/PS-Script/releases/download/1.7.4/LabelPlus_PS-Script_1.7.4.7z)
 > 
 > FX版PS脚本:[Meo_Ps_Script.zip](https://github.com/Lost-Swords/LabelPlusFX_New/releases/download/v2.3.6/Meo_Ps_Script.zip)
 
