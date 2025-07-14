@@ -59,8 +59,8 @@ export default defineConfig({
         collapsed: false,
         items: [
            { text: '界面概述', link: '/base/interface' },
-          { text: '快捷键', link: '/base/quick-work' },
-          // { text: '快速开始', link: '/introduce/getting-started' }
+           { text: '菜单', link: '/base/menu' },
+          { text: '快捷操作', link: '/base/quick-work' },
         ]
       },
       {
