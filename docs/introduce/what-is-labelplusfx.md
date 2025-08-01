@@ -7,6 +7,9 @@ LabelplusFX是一个基于原版[LabelPlus](https://github.com/LabelPlus/LabelPl
 - 图片可以在窗口中任意拖动
 - Label与提示文本显示优化
 - 翻译和标号模式提示更清楚
+- 支持多种图像格式（BMP、GIF、PNG、JPG、JPEG、JFIF、TIF、TIFF、WEBP）
+- 更多分组
+- 可以手动指定图片文件路径
 - 等等
 
 ## 特性
@@ -21,6 +24,7 @@ LabelplusFX是一个基于原版[LabelPlus](https://github.com/LabelPlus/LabelPl
 - 中日小词典
 - 繁简转换
 - 文件即时备份与恢复
+- 提供文本格式检查功能
 - 等等
 
 ## 更多说明
