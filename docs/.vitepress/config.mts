@@ -76,8 +76,9 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '更新日志', link: '/support/change-log' },
+          { text: '常见问题', link: '/support/question' },
           { text: '联系作者', link: '/support/contact-author' },
-           { text: '友情链接', link: '/support/link' }
+          { text: '友情链接', link: '/support/link' }
         ]
       }
     ],
