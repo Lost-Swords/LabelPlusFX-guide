@@ -1,6 +1,6 @@
 # LabelPlusFX是什么?
 
-LabelplusFX是一个基于原版[LabelPlus](https://github.com/LabelPlus/LabelPlus)的设计理念，使用JavaFX进行开发的漫画汉化辅助工具，支持win/macOS双平台。其相对于原版做出了一定的改进，并引入了一些新特性，带来了更好的使用体验。
+LabelPlusFX是一个基于原版[LabelPlus](https://github.com/LabelPlus/LabelPlus)的设计理念，使用JavaFX进行开发的漫画汉化辅助工具，支持win/macOS双平台。其相对于原版做出了一定的改进，并引入了一些新特性，带来了更好的使用体验。
 
 ## 改进
 
